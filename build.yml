@@ -21,3 +21,4 @@ jobs:
         with:
           name: DarknesTor-apk
           path: app/build/outputs/apk/debug/*.apk
+
